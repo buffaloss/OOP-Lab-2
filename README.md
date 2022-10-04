@@ -11,5 +11,5 @@ In my school simulation program in Java, I created some entities:
 - Canteen - represents the canteen of teh school; has attributes width, length and seats (total number of seats available for students to use for dining).
 - Student - has attributes: name, ID, grade(1st, 2nd, 3rd...etc) and presence( present/absent). Presence cam be modified if student is late or shwos up later.
 - Teacher - has attributes: name, ID, subject (Maths, Romanian language, History, etc.), salary. It is possible to modify the salary by addition or subtraction.
-- Adjunct - has attributes: name, ID, task (Hiring staff, Oragnizing events, Manage contracts and documents, etc) and salary. The task can be modified, as well as the salary by addition or subtraction.
+- Adjunct - has attributes: name, ID, task (Hiring staff, Organizing school events, Managing contracts and documents, etc) and salary. The task can be modified, as well as the salary by addition or subtraction.
 - Staff - has attributes: name, ID, job ( nurse, school psychologist, janitor, school cook,etc), salary. The salary cam be modified by addition or subtraction if needed.
